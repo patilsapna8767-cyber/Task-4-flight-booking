@@ -1,6 +1,3 @@
-# Task 03 - Banking System - Without Scanner/input
-# Kha pe type karna hai iska tension khatam
-
 balance = 10000
 print("Welcome to Kiran Bank")
 print(f"Opening Balance: Rs {balance}")
